@@ -1,2 +1,2 @@
-# kakao-clone-2.0
+# kakaotalk-ojs
  Cloning KakaoTalk
